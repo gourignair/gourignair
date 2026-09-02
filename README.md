@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Gouri !!
 
-<!--
-**gourignair/gourignair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronic & Computer Engineering student at the University of Kent.
 
-Here are some ideas to get you started:
+## Interests
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- ⚙️ Control Systems
+- 🌱 Embedded Systems
+- 💻 Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Building my engineering portfolio
+- Python
+- SQL
+- Machine Learning
+
+## Languages & Tools
+- Python
+- MATLAB
+- C/C++
+- SQL
+- Simulink
+- Arduino
+- Git
+
+## Featured Projects
+🌱 Smart Greenhouse Monitoring System 
+🤖 Bipedal Robot 
+📈 Data Science Portfolio
+
+
+Thanks for visiting my profile!
