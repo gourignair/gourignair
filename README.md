@@ -3,11 +3,11 @@
 I'm an Electronic & Computer Engineering student at the University of Kent.
 
 ## Interests
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- ⚙️ Control Systems
-- 🌱 Embedded Systems
-- 💻 Machine Learning
+- Artificial Intelligence
+- Data Science
+- Control Systems
+- Embedded Systems
+- Machine Learning
 
 ## Currently Working On
 - Building my engineering portfolio
@@ -25,9 +25,9 @@ I'm an Electronic & Computer Engineering student at the University of Kent.
 - Git
 
 ## Featured Projects
-🌱 Smart Greenhouse Monitoring System 
-🤖 Bipedal Robot 
-📈 Data Science Portfolio
+Smart Greenhouse Monitoring System 
+Bipedal Robot 
+Data Science Portfolio
 
 
 Thanks for visiting my profile!
