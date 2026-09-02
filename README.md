@@ -1,33 +1,50 @@
-# Hi, I'm Gouri !!
+# Hi, I'm Gouri 
+I'm an Electronic & Computer Engineering student at the University of Kent with interests in Data Science, Artificial Intelligence, Robotics and Intelligent Systems.
 
-I'm an Electronic & Computer Engineering student at the University of Kent.
+
 
 ## Interests
-- Artificial Intelligence
+
 - Data Science
-- Control Systems
+- Artificial Intelligence
+- Machine Learning
 - Embedded Systems
-- Machine Learning
+- Robotics
+- Control Systems
 
-## Currently Working On
-- Building my engineering portfolio
-- Python
-- SQL
-- Machine Learning
 
-## Languages & Tools
+## Current Projects
+ Smart Greenhouse Monitoring System
+
+Bipedal Robot
+
+Python Data Science Portfolio *(coming soon)*
+
+Machine Learning Projects *(coming soon)*
+
+
+## Technical Skills
+Programming
 - Python
 - MATLAB
 - C/C++
 - SQL
+
+Engineering
 - Simulink
-- Arduino
+- Embedded Systems
+- Signal Processing
+- Control Systems
+
+Tools
 - Git
-
-## Featured Projects
-Smart Greenhouse Monitoring System 
-Bipedal Robot 
-Data Science Portfolio
+- GitHub
+- Arduino
+- VS Code
 
 
-Thanks for visiting my profile!
+## Currently Learning
+- Machine Learning
+- SQL
+- Data Engineering
+- Computer Vision
